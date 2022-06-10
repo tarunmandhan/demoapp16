@@ -25,7 +25,7 @@ hr {
   font-family: "Anton", sans-serif;
 }
 
-.heading {
+.heading_style {
   font-family: "Press Start 2P", cursive;
   font-size: 2rem;
   margin: 0.7em auto 1em auto;
@@ -76,7 +76,7 @@ hr {
   margin: 1.2rem auto;
 } */
 
-/* .roll {
+.roll {
   width: auto;
   font-family: "Montserrat", sans-serif;
   font-weight: 600;
@@ -91,19 +91,17 @@ hr {
   font-size: 1rem;
   margin: 1.2em auto;
   cursor: pointer;
-} */
-/* 
+}
 .roll:focus {
   outline: none;
   cursor: pointer;
-} */
-/* 
+}
 .roll:active {
   color: black;
   background-color: gold;
   box-shadow: 0 4px 5px 0px white;
   transform: translateY(1px);
-} */
+}
 
 .btn-class {
   align-self: center;

@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "mgmcdermott.vscode-language-babel",
+    "dsznajder.es7-react-js-snippets",
+    "xabikos.javascriptsnippets",
+    "vscode-icons-team.vscode-icons",
+    "mpotthoff.vscode-android-webview-debug",
+    "devzstudio.emoji-snippets",
+    "doooreyn.emoji-snippet-vscode"
+  ]
+}
